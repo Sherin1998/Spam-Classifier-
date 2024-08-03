@@ -1,5 +1,9 @@
 This machine learning task involves creating a classification model to create a classifier for detecting whether the mail is spam or not.
 It involves the following steps
+
+
+
+
 **Data Collection**
 *Source Identification*: Identify and gather datasets containing labeled email data (spam or ham). Common sources include public datasets like the Enron email dataset.
 ** Data Preprocessing**
